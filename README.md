@@ -185,3 +185,32 @@ Based on the detailed insights from the Power BI dashboard analyzing the medicin
  * **Analyze seasonal trends and optimize promotions:**  Sales data indicates a peak in July and a dip in August.  Investigate reasons behind these trends and plan targeted promotions or discounts strategically to address seasonal fluctuations.
 
 #
+
+## My Learnings:
+This project has significantly enhanced my analytical skills, particularly in using Power BI for data visualization and analysis. I am now more confident in my ability to transform raw data into meaningful insights that can drive strategic business decisions. This experience has prepared me well for future data analysis projects, and I look forward to applying these skills in more complex and challenging scenarios.
+
+#
+**This project is the result of over 7-10 days of hard work, and I invite you to 👍 like, share, and connect with me on [LinkedIn](https://www.linkedin.com/in/saddam-ansari-dataanalyst/).**
+
+I hope scrolling through this project provides you with insightful understanding.
+
+Thank you for taking the time to view my project.
+
+## Want to see same project in difrent difrent more 8 style visit my novypro portfolio.
+#
+
+## How you can help me:
+
+I've successfully completed over **65 Power BI projects**, all showcased in my [Novypro portfolio](https://www.novypro.com/profile_projects/saddamansari). You're all invited to visit my portfolio and explore these amazing projects!
+
+**Additionally, I'm currently seeking internship or entry-level opportunities. If you have any opportunities available or need a freelance Power BI project completed, please connect with me on LinkedIn.**
+
+Looking forward to connecting with you all!
+
+#
+
+### Created and Presented by-
+
+Saddam Ansari @Aspiring Data Analyst [LinkedIn](https://www.linkedin.com/in/saddam-ansari-dataanalyst/)
+
+Location: India
