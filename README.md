@@ -7,7 +7,7 @@
 
 ## Project Objective
 
-The primary objective of this project is to develop a comprehensive and visually appealing Power BI dashboard that analyzes the medicine sales data for the entire year of 2023. 
+The primary objective of this project is to develop a comprehensive and visually appealing Power BI dashboard that analyzes the medicine sales data for the entire year of 2023 and 2022.
 
 This initiative has been undertaken in response to stakeholders' requests to gain a clear understanding of sales performance. By transforming raw data into actionable insights, the dashboard aims to assist stakeholders in making informed strategic decisions for future planning.
 
